@@ -36,7 +36,7 @@ Enable One UI 9 & Galaxy AI features on the **Samsung Galaxy S23 Ultra (`SM-S918
 1. **Now Brief, Now Nudge & Notification Highlights:**
    Follow [docs/NowBrief_NowNudge.md](docs/NowBrief_NowNudge.md), then apply [docs/NowBarFix.md](docs/NowBarFix.md) using [tools/GenUIBridge.py](tools/GenUIBridge.py) so cards appear on the lock-screen Now Bar / AOD.
 2. **My FanCam & Audio Eraser (One UI 9 Port):**
-   Download **`S23U_MyFanCam_AudioEraser_v1.0.zip`** from **[Releases](https://github.com/Furkan-Tsc/S23Ultra-AI-Feature-Pack/releases)** and follow [docs/MyFanCam_AudioEraser.md](docs/MyFanCam_AudioEraser.md):
+   Download latest **`S23U_MyFanCam_AudioEraser.zip`** from **[Releases](https://github.com/Furkan-Tsc/S23Ultra-AI-Feature-Pack/releases)** and follow [docs/MyFanCam_AudioEraser.md](docs/MyFanCam_AudioEraser.md):
    - **Termux:** Extract to `/sdcard/Download/S23U_MyFanCam_AudioEraser` and run:
      ```sh
      su -mm -c "sh /sdcard/Download/S23U_MyFanCam_AudioEraser/install_on_device.sh"
