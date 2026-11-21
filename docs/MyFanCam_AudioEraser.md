@@ -13,13 +13,13 @@ This guide enables Samsung One UI 9's **My FanCam** (`AutoReframe` / `SUPPORT_VI
 - **LSPosed / Vector** (with ZygiskNext)
 - **CorePatch (4.9)** module enabled (signature verification and version downgrade patches enabled — *Disable signature verification*, *Downgrade*, and *Bypass digest* checks active)
 - **Termux**
-- **Release archive:** **`S23U_MyFanCam_AudioEraser_v1.0.zip`** from this repository's **[Releases](https://github.com/Furkan-Tsc/S23Ultra-AI-Feature-Pack/releases)** page
+- **Release archive:** Latest **`S23U_MyFanCam_AudioEraser.zip`** from this repository's **[Releases](https://github.com/Furkan-Tsc/S23Ultra-AI-Feature-Pack/releases)** page
 
 ---
 
 ## Install With Termux
 
-1. Download **`S23U_MyFanCam_AudioEraser_v1.0.zip`** on your phone and extract it to `/sdcard/Download/S23U_MyFanCam_AudioEraser`.
+1. Download latest **`S23U_MyFanCam_AudioEraser.zip`** on your phone and extract it to `/sdcard/Download/S23U_MyFanCam_AudioEraser`.
 2. Open **Termux** and run:
 
 ```sh
