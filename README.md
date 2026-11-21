@@ -15,7 +15,7 @@ Enable One UI 9 & Galaxy AI features on the **Samsung Galaxy S23 Ultra (`SM-S918
 | :--- | :--- | :--- |
 | **Now Brief & Widget** | `floating_feature.xml` bind-mount + Smart Suggestions `7.3.30.9` | [NowBrief_NowNudge.md](docs/NowBrief_NowNudge.md) |
 | **Now Nudge** | `floating_feature.xml` (`NOW_NUDGE_VERSION=2`, `LLM_VERSION=1.70`) | [NowBrief_NowNudge.md](docs/NowBrief_NowNudge.md) |
-| **Notification Highlights** | Samsung Language Core `3.2.40.5` + `AI_VERSION=20263` | [NowBrief_NowNudge.md](docs/NowBrief_NowNudge.md) |
+| **Notification Highlights** | `AI_VERSION=20263`, Bypass Samsung Offline Language Model | [NotiHighlightsAI](https://github.com/Furkan-Tsc/Samsung-NotiHighlights-AI), [NowBrief_NowNudge.md](docs/NowBrief_NowNudge.md) |
 | **Now Bar Fix (AOD / Lock Screen)** | Shared-UID Samsung-signed bridge via [GenUIBridge.py](tools/GenUIBridge.py) | [NowBarFix.md](docs/NowBarFix.md) |
 | **My FanCam (Auto Reframe)** | One UI 9 Video Editor (`vekjt` isolation) + [`g.c`](src/g.c) ABI shim + [`libsnap_tfl.c`](src/libsnap_tfl.c) SNAP→TFLite bridge | [MyFanCam_AudioEraser.md](docs/MyFanCam_AudioEraser.md) |
 | **Audio Eraser (v1.3.0)** | One UI 9 `libsbs.so` + `/data/sbs` TFLite/Sorione models + `AudioEraserFeatureParser` fallback | [MyFanCam_AudioEraser.md](docs/MyFanCam_AudioEraser.md) |
