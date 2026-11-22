@@ -120,7 +120,7 @@ setprop ctl.restart zygote
 
 ### Bonus: Notification Highlights (Summarize Notifications)
 
-If you also want **Notification Highlights**, download and install **Samsung Language Core `3.2.40.5`** from APKMirror (the exact version matters).
+If you also want **Notification Highlights**, use run these commands and use this repo: [NotiHighlights AI](https://github.com/Furkan-Tsc/Samsung-NotiHighlights-AI).
 
 We already added the required AI flags in Step 3, so you just need to turn the settings on in Termux:
 
